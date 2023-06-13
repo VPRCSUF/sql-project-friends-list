@@ -1,2 +1,2 @@
 # sql-project-friends-list
-A simple 'friends' table project to help understand basic sql commands.
+A simple SQL project that creates and modifies a 'friends' table to help understand basic sql commands.
